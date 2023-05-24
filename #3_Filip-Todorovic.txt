@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 poz kolega
-=======
-Ja sam Filip Todorovic
->>>>>>> 054960e (first commit #6)
