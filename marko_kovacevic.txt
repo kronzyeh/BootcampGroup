@@ -1,3 +1,7 @@
 marko kovacevic
 
+<<<<<<< HEAD
 markan bez a je arkan
+=======
+konflikt Filip Tod
+>>>>>>> 054960e (first commit #6)
