@@ -1,15 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Moje ime je Marko
-=======
 ja sam filip
->>>>>>> feature/Task#9_Filip-Tod
-=======
-Moje ime je Tomo
+Moje ime je Tomislav
 
 konflilkt Filip-tod
->>>>>>> bf6a245fdc5ea8b7ad0e5f63776c57a35253661d
-=======
-ja nisam tomislav lucic
->>>>>>> 89e6e713f19fff80ff30233450041a184455d008

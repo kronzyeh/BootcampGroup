@@ -1,18 +1,2 @@
-<<<<<<< HEAD
-ja nisam marko kovacevic
-=======
-Ja sam filip
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-asdfkjndsa
-=======
-markan bez a je arkan
->>>>>>> 6591bdb34fb6b39173c8f4289be74ee86de976de
-=======
-markan bez a je arkan
-=======
-konflikt Filip Tod
->>>>>>> 054960e (first commit #6)
 >>>>>>> bf6a245fdc5ea8b7ad0e5f63776c57a35253661d
 >>>>>>> feature/Task#9_Filip-Tod
