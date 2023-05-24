@@ -1,3 +1,7 @@
 marko kovacevic
 
+<<<<<<< HEAD
 asdfkjndsa
+=======
+markan bez a je arkan
+>>>>>>> 6591bdb34fb6b39173c8f4289be74ee86de976de

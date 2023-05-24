@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 jsbdfjhbsdadkjasas
 a
 sdas
 d
 d
+=======
+poz kolega
+>>>>>>> 6591bdb34fb6b39173c8f4289be74ee86de976de
