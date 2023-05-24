@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 jsbdfjhbsdadkjasas
 a
 sdas
@@ -14,3 +15,6 @@ poz kolega
 Ja sam Marko Kovacevic
 >>>>>>> 054960e (first commit #6)
 >>>>>>> bf6a245fdc5ea8b7ad0e5f63776c57a35253661d
+=======
+filip
+>>>>>>> 89e6e713f19fff80ff30233450041a184455d008

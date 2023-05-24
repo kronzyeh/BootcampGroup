@@ -1,0 +1,9 @@
+diff a/#3_Filip-Todorovic.txt b/#3_Filip-Todorovic.txt	(rejected hunks)
+@@ -1 +0,5 @@
+-poz kolega
+\ No newline at end of file
++<<<<<<< HEAD
++poz kolega
++=======
++Ja sam Filip Todorovic
++>>>>>>> 054960e (first commit #6)
