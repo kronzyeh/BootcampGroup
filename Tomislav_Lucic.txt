@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-Moje ime je Tomislav
-=======
-<<<<<<< HEAD
-Moje ime je Marko
-=======
-Moje ime je Tomislav
-
-konflilkt Filip-tod
->>>>>>> bf6a245fdc5ea8b7ad0e5f63776c57a35253661d
->>>>>>> 487725bcf7874fff0451218f6b654f928d863f3c
+ja nisam tomislav lucic

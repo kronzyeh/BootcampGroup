@@ -1,18 +1,1 @@
-marko kovacevic
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-markan bez a je arkan
-=======
-<<<<<<< HEAD
-asdfkjndsa
-=======
-markan bez a je arkan
->>>>>>> 6591bdb34fb6b39173c8f4289be74ee86de976de
-=======
-markan bez a je arkan
-=======
-konflikt Filip Tod
->>>>>>> 054960e (first commit #6)
->>>>>>> bf6a245fdc5ea8b7ad0e5f63776c57a35253661d
->>>>>>> 487725bcf7874fff0451218f6b654f928d863f3c
+ja nisam marko kovacevic
