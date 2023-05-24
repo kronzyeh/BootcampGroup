@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 Moje ime je Marko
 =======
-Moje ime je Tomislav
+Moje ime je Tomo
 
 konflilkt Filip-tod
 >>>>>>> bf6a245fdc5ea8b7ad0e5f63776c57a35253661d

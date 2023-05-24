@@ -11,6 +11,6 @@ poz kolega
 =======
 poz kolega
 =======
-Ja sam Filip Todorovic
+Ja sam Marko Kovacevic
 >>>>>>> 054960e (first commit #6)
 >>>>>>> bf6a245fdc5ea8b7ad0e5f63776c57a35253661d
