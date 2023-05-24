@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Moje ime je Marko
+=======
+ja sam filip
+>>>>>>> feature/Task#9_Filip-Tod
 =======
 Moje ime je Tomo
 
